@@ -1,0 +1,12 @@
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\bin\Debug\netcoreapp3.1\FindPaths.exe
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\bin\Debug\netcoreapp3.1\FindPaths.deps.json
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\bin\Debug\netcoreapp3.1\FindPaths.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\bin\Debug\netcoreapp3.1\FindPaths.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\bin\Debug\netcoreapp3.1\FindPaths.dll
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\bin\Debug\netcoreapp3.1\FindPaths.pdb
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\obj\Debug\netcoreapp3.1\FindPaths.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\obj\Debug\netcoreapp3.1\FindPaths.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\obj\Debug\netcoreapp3.1\FindPaths.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\obj\Debug\netcoreapp3.1\FindPaths.dll
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\obj\Debug\netcoreapp3.1\FindPaths.pdb
+C:\Users\PREDATOR\source\repos\Recursion\FindPath\obj\Debug\netcoreapp3.1\FindPaths.genruntimeconfig.cache

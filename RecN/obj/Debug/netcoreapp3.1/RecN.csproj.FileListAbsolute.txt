@@ -1,0 +1,12 @@
+C:\Users\PREDATOR\source\repos\Recursion\RecN\bin\Debug\netcoreapp3.1\RecN.exe
+C:\Users\PREDATOR\source\repos\Recursion\RecN\bin\Debug\netcoreapp3.1\RecN.deps.json
+C:\Users\PREDATOR\source\repos\Recursion\RecN\bin\Debug\netcoreapp3.1\RecN.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Recursion\RecN\bin\Debug\netcoreapp3.1\RecN.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Recursion\RecN\bin\Debug\netcoreapp3.1\RecN.dll
+C:\Users\PREDATOR\source\repos\Recursion\RecN\bin\Debug\netcoreapp3.1\RecN.pdb
+C:\Users\PREDATOR\source\repos\Recursion\RecN\obj\Debug\netcoreapp3.1\RecN.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\RecN\obj\Debug\netcoreapp3.1\RecN.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Recursion\RecN\obj\Debug\netcoreapp3.1\RecN.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\RecN\obj\Debug\netcoreapp3.1\RecN.dll
+C:\Users\PREDATOR\source\repos\Recursion\RecN\obj\Debug\netcoreapp3.1\RecN.pdb
+C:\Users\PREDATOR\source\repos\Recursion\RecN\obj\Debug\netcoreapp3.1\RecN.genruntimeconfig.cache

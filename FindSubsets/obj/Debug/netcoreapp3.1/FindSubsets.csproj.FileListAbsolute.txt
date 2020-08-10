@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\bin\Debug\netcoreapp3.1\FindSubsets.exe
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\bin\Debug\netcoreapp3.1\FindSubsets.deps.json
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\bin\Debug\netcoreapp3.1\FindSubsets.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\bin\Debug\netcoreapp3.1\FindSubsets.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\bin\Debug\netcoreapp3.1\FindSubsets.dll
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\bin\Debug\netcoreapp3.1\FindSubsets.pdb
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.dll
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.pdb
+C:\Users\PREDATOR\source\repos\Recursion\FindSubsets\obj\Debug\netcoreapp3.1\FindSubsets.genruntimeconfig.cache

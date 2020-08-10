@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\bin\Debug\netcoreapp3.1\CyclesToN.exe
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\bin\Debug\netcoreapp3.1\CyclesToN.deps.json
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\bin\Debug\netcoreapp3.1\CyclesToN.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\bin\Debug\netcoreapp3.1\CyclesToN.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\bin\Debug\netcoreapp3.1\CyclesToN.dll
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\bin\Debug\netcoreapp3.1\CyclesToN.pdb
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.dll
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.pdb
+C:\Users\PREDATOR\source\repos\Recursion\CyclesToN\obj\Debug\netcoreapp3.1\CyclesToN.genruntimeconfig.cache
