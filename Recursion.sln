@@ -3,27 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecNK", "RecNK\RecNK.csproj", "{44AEF874-8679-4D43-8567-A69170B94E64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecNK", "RecNK\RecNK.csproj", "{44AEF874-8679-4D43-8567-A69170B94E64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclesToN", "CyclesToN\CyclesToN.csproj", "{795DDDE9-EED7-43B0-881F-4CFBAA21E053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclesToN", "CyclesToN\CyclesToN.csproj", "{795DDDE9-EED7-43B0-881F-4CFBAA21E053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecNK+", "RecNK+\RecNK+.csproj", "{40C5AF85-4A9B-44DC-B3A9-40E8E3FDC03C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecNK+", "RecNK+\RecNK+.csproj", "{40C5AF85-4A9B-44DC-B3A9-40E8E3FDC03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSubsets", "FindSubsets\FindSubsets.csproj", "{299860A1-E59A-496A-8DF6-5C4365DBE35D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSubsets", "FindSubsets\FindSubsets.csproj", "{299860A1-E59A-496A-8DF6-5C4365DBE35D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleSubsets", "CycleSubsets\CycleSubsets.csproj", "{66923C8A-C398-4AC7-91CD-EEBE87E731B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CycleSubsets", "CycleSubsets\CycleSubsets.csproj", "{66923C8A-C398-4AC7-91CD-EEBE87E731B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecMergeSort", "RecMergeSort\RecMergeSort.csproj", "{40924D5F-390C-4722-A3A8-618452CC0B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecMergeSort", "RecMergeSort\RecMergeSort.csproj", "{40924D5F-390C-4722-A3A8-618452CC0B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecN", "RecN\RecN.csproj", "{7D359F7F-1EE8-4D49-A145-4F18E0F2695A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecN", "RecN\RecN.csproj", "{7D359F7F-1EE8-4D49-A145-4F18E0F2695A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrSubsets", "ArrSubsets\ArrSubsets.csproj", "{EF8E8982-BC11-4B18-9326-BF53940A90C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrSubsets", "ArrSubsets\ArrSubsets.csproj", "{EF8E8982-BC11-4B18-9326-BF53940A90C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrSubsets+", "ArrSubsets+\ArrSubsets+.csproj", "{0950CB61-1244-48D5-8F7D-A5AED3D1B2AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrSubsets+", "ArrSubsets+\ArrSubsets+.csproj", "{0950CB61-1244-48D5-8F7D-A5AED3D1B2AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPaths", "FindPath\FindPaths.csproj", "{B94F0028-01AA-4367-9FC1-579CD532C835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindPaths", "FindPath\FindPaths.csproj", "{B94F0028-01AA-4367-9FC1-579CD532C835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{7297EFCC-C272-4295-B44D-0E86D5A096C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{7297EFCC-C272-4295-B44D-0E86D5A096C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSTask", "BFS\BFSTask.csproj", "{749F89AF-60B5-47CD-90FF-36DC4FEDCF64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{7297EFCC-C272-4295-B44D-0E86D5A096C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7297EFCC-C272-4295-B44D-0E86D5A096C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7297EFCC-C272-4295-B44D-0E86D5A096C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749F89AF-60B5-47CD-90FF-36DC4FEDCF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749F89AF-60B5-47CD-90FF-36DC4FEDCF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749F89AF-60B5-47CD-90FF-36DC4FEDCF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749F89AF-60B5-47CD-90FF-36DC4FEDCF64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

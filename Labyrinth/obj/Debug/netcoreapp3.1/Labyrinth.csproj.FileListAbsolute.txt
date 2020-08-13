@@ -2,3 +2,12 @@ C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyr
 C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.AssemblyInfoInputs.cache
 C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.AssemblyInfo.cs
 C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.exe
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.deps.json
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.dll
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\bin\Debug\netcoreapp3.1\Labyrinth.pdb
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.dll
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.pdb
+C:\Users\PREDATOR\source\repos\Recursion\Labyrinth\obj\Debug\netcoreapp3.1\Labyrinth.genruntimeconfig.cache
